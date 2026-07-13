@@ -3,7 +3,7 @@
 #### IT Student | Security Researcher | Cyber Security Enthusiast
 
 # About Me:
-🎓 B.Tech IT Engineering student (8.44 CGPA) passionate about offensive security and threat detection.<br>
+🎓 B.Tech IT Engineering student (8.54 CGPA) passionate about offensive security and threat detection.<br>
 🛠️ Experienced in Vulnerability Assessment and Penetration Testing (VAPT) and OSINT intelligence.<br>
 💻 Builder of **Aegis Nexus** (Linux cybersecurity platform) and **ParamNinja** CLI tool.<br>
 🔎 Skilled in network/app security testing, packet analysis, and automating recon workflows.<br>
